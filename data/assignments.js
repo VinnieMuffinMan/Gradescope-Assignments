@@ -4,8 +4,8 @@ assignments = {
       "title": "Lab 1 Video",
       "course": "CSE 110",
       "dueDate": "2024-10-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5075505/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5075505/submissions/274819134",
+      "submitted": true
     },
     {
       "title": "Topic and interview questions",
