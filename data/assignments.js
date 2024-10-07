@@ -11,8 +11,8 @@ assignments = {
       "title": "Topic and interview questions",
       "course": "CSE 110",
       "dueDate": "2024-10-07T19:00:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5076746/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5076746/submissions/275174243",
+      "submitted": true
     },
     {
       "title": "Clicker replacement 10/2",
