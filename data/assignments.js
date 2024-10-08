@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2024-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5120166/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Vision Document",
+      "course": "CSE 110",
+      "dueDate": "2024-10-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
