@@ -32,8 +32,8 @@ assignments = {
       "title": "Focus Group Discussion Notes",
       "course": "CSE 110",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5120166/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5120166/submissions/276013598",
+      "submitted": true
     },
     {
       "title": "Vision Document",
