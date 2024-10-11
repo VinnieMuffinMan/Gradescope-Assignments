@@ -66,7 +66,22 @@ assignments = {
       "submitted": false
     }
   ],
-  "CSE156_FA24_A00": [],
+  "CSE156_FA24_A00": [
+    {
+      "title": "PA1 Report",
+      "course": "CSE156_FA24_A00",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/872298",
+      "submitted": false
+    },
+    {
+      "title": "PA1 Code",
+      "course": "CSE156_FA24_A00",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/872298",
+      "submitted": false
+    }
+  ],
   "MATH140A_FA24_A00": [
     {
       "title": "Homework 1",
