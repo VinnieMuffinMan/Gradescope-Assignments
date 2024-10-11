@@ -25,8 +25,8 @@ assignments = {
       "title": "Lab 2 Video",
       "course": "CSE 110",
       "dueDate": "2024-10-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5114562/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5114562/submissions/276780333",
+      "submitted": true
     },
     {
       "title": "Focus Group Discussion Notes",
