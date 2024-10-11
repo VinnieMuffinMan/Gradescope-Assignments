@@ -41,6 +41,20 @@ assignments = {
       "dueDate": "2024-10-14T23:59:00",
       "link": "https://www.gradescope.com/courses/883395",
       "submitted": false
+    },
+    {
+      "title": "Human-computer interaction: heuristic evaluation",
+      "course": "CSE 110",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395",
+      "submitted": false
+    },
+    {
+      "title": "Peer Vision Evaluation",
+      "course": "CSE 110",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5147398/submissions/new",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
@@ -101,8 +115,8 @@ assignments = {
       "title": "Homework 2",
       "course": "MATH140A_FA24_A00",
       "dueDate": "2024-10-11T21:00:00",
-      "link": "https://www.gradescope.com/courses/886078",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/886078/assignments/5079896/submissions/277136569",
+      "submitted": true
     },
     {
       "title": "Homework 3",
