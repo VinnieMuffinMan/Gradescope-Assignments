@@ -183,5 +183,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/875374/assignments/5042249/submissions/274645615",
       "submitted": true
     }
+  ],
+  "MATH260A_FA24_A00": [
+    {
+      "title": "Homework 1",
+      "course": "MATH260A_FA24_A00",
+      "dueDate": "2024-10-18T02:00:00",
+      "link": "https://www.gradescope.com/courses/898180",
+      "submitted": false
+    }
   ]
 };
