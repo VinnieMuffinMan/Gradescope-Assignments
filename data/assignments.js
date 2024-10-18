@@ -92,6 +92,13 @@ assignments = {
       "dueDate": "2024-10-20T23:59:00",
       "link": "https://www.gradescope.com/courses/875836",
       "submitted": false
+    },
+    {
+      "title": "Problem Set 4",
+      "course": "CSE107_FA24_A00",
+      "dueDate": "2024-10-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/875836",
+      "submitted": false
     }
   ],
   "CSE156_FA24_A00": [
