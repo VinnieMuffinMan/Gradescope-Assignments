@@ -46,15 +46,15 @@ assignments = {
       "title": "Human-computer interaction: heuristic evaluation",
       "course": "CSE 110",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5147233/submissions/279702120",
+      "submitted": true
     },
     {
       "title": "Peer Vision Evaluation",
       "course": "CSE 110",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5147398/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5147398/submissions/279702560",
+      "submitted": true
     },
     {
       "title": "Lab 3 Submission",
