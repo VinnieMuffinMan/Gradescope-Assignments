@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2024-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5202477/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Revised Vision Document",
+      "course": "CSE 110",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
