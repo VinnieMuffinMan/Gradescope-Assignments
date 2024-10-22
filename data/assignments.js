@@ -76,6 +76,13 @@ assignments = {
       "dueDate": "2024-10-21T16:52:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5197184/submissions/280445734",
       "submitted": true
+    },
+    {
+      "title": "Design Mockup and Requirements Document",
+      "course": "CSE 110",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5202477/submissions/new",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
