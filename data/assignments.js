@@ -210,8 +210,8 @@ assignments = {
       "title": "Homework 1",
       "course": "MATH260A_FA24_A00",
       "dueDate": "2024-10-18T02:00:00",
-      "link": "https://www.gradescope.com/courses/898180",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/898180/assignments/5175121/submissions/280612677",
+      "submitted": true
     }
   ]
 };
