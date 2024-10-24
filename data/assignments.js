@@ -90,6 +90,13 @@ assignments = {
       "dueDate": "2024-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/883395",
       "submitted": false
+    },
+    {
+      "title": "Clicker replacement 10/23",
+      "course": "CSE 110",
+      "dueDate": "2024-10-23T16:52:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5209372/submissions/281309730",
+      "submitted": true
     }
   ],
   "CSE107_FA24_A00": [
