@@ -97,6 +97,13 @@ assignments = {
       "dueDate": "2024-10-23T16:52:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5209372/submissions/281309730",
       "submitted": true
+    },
+    {
+      "title": "Lab 5 Submission",
+      "course": "CSE 110",
+      "dueDate": "2024-11-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5233282/submissions/new",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
