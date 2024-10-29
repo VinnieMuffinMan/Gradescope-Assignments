@@ -99,6 +99,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Clicker replacement 10/28",
+      "course": "CSE 110",
+      "dueDate": "2024-10-28T16:52:00",
+      "link": "https://www.gradescope.com/courses/883395",
+      "submitted": false
+    },
+    {
       "title": "Lab 5 Submission",
       "course": "CSE 110",
       "dueDate": "2024-11-01T23:59:00",
