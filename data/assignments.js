@@ -81,15 +81,15 @@ assignments = {
       "title": "Design Mockup and Requirements Document",
       "course": "CSE 110",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5202477/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5202477/submissions/283185443",
+      "submitted": true
     },
     {
       "title": "Revised Vision Document",
       "course": "CSE 110",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5202666/submissions/283187876",
+      "submitted": true
     },
     {
       "title": "Clicker replacement 10/23",
