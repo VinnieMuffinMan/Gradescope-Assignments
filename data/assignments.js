@@ -113,6 +113,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Software Architecture",
+      "course": "CSE 110",
+      "dueDate": "2024-11-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5270710/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "This is a only a test",
       "course": "CSE 110",
       "dueDate": "2024-11-08T09:47:00",
