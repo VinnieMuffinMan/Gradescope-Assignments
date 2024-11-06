@@ -120,13 +120,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "This is a only a test",
-      "course": "CSE 110",
-      "dueDate": "2024-11-08T09:47:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5273315/submissions/new",
-      "submitted": false
-    },
-    {
       "title": "Team report, Sprint 2",
       "course": "CSE 110",
       "dueDate": "2024-11-10T23:59:00",
