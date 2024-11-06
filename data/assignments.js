@@ -294,8 +294,8 @@ assignments = {
       "title": "Problem Set 2",
       "course": "MATH260A_FA24_A00",
       "dueDate": "2024-11-01T10:33:00",
-      "link": "https://www.gradescope.com/courses/898180",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/898180/assignments/5251249/submissions/286029645",
+      "submitted": true
     }
   ]
 };
