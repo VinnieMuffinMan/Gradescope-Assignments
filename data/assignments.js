@@ -197,8 +197,8 @@ assignments = {
       "title": "PA2 Code",
       "course": "CSE156_FA24_A00",
       "dueDate": "2024-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/872298",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/872298/assignments/5228121/submissions/286427889",
+      "submitted": true
     },
     {
       "title": "PA2 Report",
