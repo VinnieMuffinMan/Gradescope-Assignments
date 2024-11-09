@@ -109,8 +109,8 @@ assignments = {
       "title": "Lab 6 Submission",
       "course": "CSE 110",
       "dueDate": "2024-11-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5266576/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5266576/submissions/287181903",
+      "submitted": true
     },
     {
       "title": "Software Architecture",
