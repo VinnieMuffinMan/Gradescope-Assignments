@@ -248,8 +248,8 @@ assignments = {
       "title": "Homework 6",
       "course": "MATH140A_FA24_A00",
       "dueDate": "2024-11-08T21:00:00",
-      "link": "https://www.gradescope.com/courses/886078",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/886078/assignments/5079903/submissions/287263927",
+      "submitted": true
     },
     {
       "title": "Homework 7",
