@@ -220,6 +220,13 @@ assignments = {
       "dueDate": "2024-11-06T23:59:00",
       "link": "https://www.gradescope.com/courses/872298/assignments/5228125/submissions/286427781",
       "submitted": true
+    },
+    {
+      "title": "PA3",
+      "course": "CSE156_FA24_A00",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/872298",
+      "submitted": false
     }
   ],
   "MATH140A_FA24_A00": [
