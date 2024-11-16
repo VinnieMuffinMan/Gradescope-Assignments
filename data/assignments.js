@@ -116,8 +116,8 @@ assignments = {
       "title": "Software Architecture",
       "course": "CSE 110",
       "dueDate": "2024-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5270710/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5270710/submissions/289726726",
+      "submitted": true
     },
     {
       "title": "Team report, Sprint 2",
