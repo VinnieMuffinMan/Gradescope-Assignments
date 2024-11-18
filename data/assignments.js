@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2024-11-17T23:59:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5312005/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Think-Aloud Usability Study",
+      "course": "CSE 110",
+      "dueDate": "2024-11-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395/assignments/5337397/submissions/new",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
