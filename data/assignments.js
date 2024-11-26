@@ -146,6 +146,13 @@ assignments = {
       "dueDate": "2024-11-24T23:59:00",
       "link": "https://www.gradescope.com/courses/883395/assignments/5343914/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Individual Reflection",
+      "course": "CSE 110",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/883395",
+      "submitted": false
     }
   ],
   "CSE107_FA24_A00": [
