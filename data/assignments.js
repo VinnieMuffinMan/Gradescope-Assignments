@@ -209,8 +209,8 @@ assignments = {
       "title": "Problem Set 8",
       "course": "CSE107_FA24_A00",
       "dueDate": "2024-11-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/875836",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/875836/assignments/5332488/submissions/292947977",
+      "submitted": true
     },
     {
       "title": "Problem Set 9",
