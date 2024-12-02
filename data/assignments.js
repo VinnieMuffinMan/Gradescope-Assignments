@@ -137,8 +137,8 @@ assignments = {
       "title": "Think-Aloud Usability Study",
       "course": "CSE 110",
       "dueDate": "2024-11-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5337397/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5337397/submissions/293724884",
+      "submitted": true
     },
     {
       "title": "Team report, Sprint 4",
