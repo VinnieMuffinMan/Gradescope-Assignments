@@ -151,8 +151,8 @@ assignments = {
       "title": "Team report, Sprint 5",
       "course": "CSE 110",
       "dueDate": "2024-12-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5382164/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5382164/submissions/294703509",
+      "submitted": true
     },
     {
       "title": "Individual Reflection",
