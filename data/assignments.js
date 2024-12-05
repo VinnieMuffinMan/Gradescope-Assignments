@@ -357,6 +357,13 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/875374/assignments/5042249/submissions/274645615",
       "submitted": true
+    },
+    {
+      "title": "Final reflection",
+      "course": "MATH187A_FA24_A00",
+      "dueDate": "2024-12-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/875374",
+      "submitted": false
     }
   ],
   "MATH260A_FA24_A00": [
