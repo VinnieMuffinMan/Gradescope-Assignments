@@ -165,8 +165,8 @@ assignments = {
       "title": "Demo Video",
       "course": "CSE 110",
       "dueDate": "2024-12-06T16:00:00",
-      "link": "https://www.gradescope.com/courses/883395/assignments/5394103/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5394103/submissions/295129958",
+      "submitted": true
     }
   ],
   "CSE107_FA24_A00": [
