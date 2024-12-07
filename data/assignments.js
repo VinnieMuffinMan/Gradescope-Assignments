@@ -158,8 +158,8 @@ assignments = {
       "title": "Individual Reflection",
       "course": "CSE 110",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/883395",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/883395/assignments/5382337/submissions/295497724",
+      "submitted": true
     },
     {
       "title": "Demo Video",
