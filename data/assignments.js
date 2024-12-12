@@ -348,6 +348,13 @@ assignments = {
       "dueDate": "2024-12-06T21:00:00",
       "link": "https://www.gradescope.com/courses/886078",
       "submitted": false
+    },
+    {
+      "title": "Final Exam",
+      "course": "MATH140A_FA24_A00",
+      "dueDate": "2024-12-12T19:00:00",
+      "link": "https://www.gradescope.com/courses/886078",
+      "submitted": false
     }
   ],
   "MATH187A_FA24_A00": [
