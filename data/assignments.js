@@ -20,8 +20,8 @@ assignments = {
       "title": "Homework1",
       "course": "MATH180B_WI25",
       "dueDate": "2025-01-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/939995",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/939995/assignments/5530925/submissions/299386677",
+      "submitted": true
     }
   ]
 };
