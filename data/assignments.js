@@ -1,4 +1,5 @@
 assignments = {
+  "CSE130_WI25_A00": [],
   "CSE150A_WI25_A00": [
     {
       "title": "Week 1: Mon Discussion Participation PDF",
