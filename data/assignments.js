@@ -43,8 +43,8 @@ assignments = {
       "title": "Homework1",
       "course": "CSE202_WI25_A00",
       "dueDate": "2025-01-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/935255",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/935255/assignments/5578100/submissions/299913752",
+      "submitted": true
     }
   ],
   "MATH180B_WI25": [
