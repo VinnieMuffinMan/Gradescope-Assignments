@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2025-01-17T23:59:00",
       "link": "https://www.gradescope.com/courses/951193",
       "submitted": false
+    },
+    {
+      "title": "handout 1-16",
+      "course": "CSE130_WI25_A00",
+      "dueDate": "2025-01-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/951193",
+      "submitted": false
     }
   ],
   "CSE150A_WI25_A00": [
