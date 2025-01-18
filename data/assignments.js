@@ -4,15 +4,15 @@ assignments = {
       "title": "handout 1-14",
       "course": "CSE130_WI25_A00",
       "dueDate": "2025-01-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/951193",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/951193/assignments/5588263/submissions/300550201",
+      "submitted": true
     },
     {
       "title": "handout 1-16",
       "course": "CSE130_WI25_A00",
       "dueDate": "2025-01-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/951193",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/951193/assignments/5588335/submissions/300550207",
+      "submitted": true
     }
   ],
   "CSE150A_WI25_A00": [
