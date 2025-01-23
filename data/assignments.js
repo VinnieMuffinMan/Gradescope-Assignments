@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2025-01-23T08:00:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5536511/submissions/301168360",
       "submitted": true
+    },
+    {
+      "title": "Homework 1",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-01-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
     }
   ],
   "CSE202_WI25_A00": [
