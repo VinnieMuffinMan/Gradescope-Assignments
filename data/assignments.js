@@ -135,7 +135,7 @@ assignments = {
     {
       "title": "Homework3",
       "course": "MATH180B_WI25",
-      "dueDate": "2025-01-24T20:09:00",
+      "dueDate": "2025-01-24T23:59:00",
       "link": "https://www.gradescope.com/courses/939995/assignments/5629842/submissions/301738516",
       "submitted": true
     }
