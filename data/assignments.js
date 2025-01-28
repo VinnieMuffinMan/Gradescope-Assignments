@@ -87,6 +87,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Week 4: Mon Discussion Participation PDF",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-01-27T21:00:00",
+      "link": "https://www.gradescope.com/courses/936983/assignments/5536405/submissions/302638988",
+      "submitted": true
+    },
+    {
       "title": "Week 3: Mon Discussion Participation PDF",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-23T08:00:00",
@@ -122,6 +129,13 @@ assignments = {
       "dueDate": "2025-01-21T23:59:00",
       "link": "https://www.gradescope.com/courses/935255/assignments/5639405/submissions/301151858",
       "submitted": true
+    },
+    {
+      "title": "Homework2",
+      "course": "CSE202_WI25_A00",
+      "dueDate": "2025-01-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/935255",
+      "submitted": false
     }
   ],
   "MATH180B_WI25": [
