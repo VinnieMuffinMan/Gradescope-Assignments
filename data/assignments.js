@@ -115,6 +115,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "HW1 Coding Assignment",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-01-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
+    },
+    {
       "title": "HW6: Data Processing AG Example",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-25T23:59:00",
