@@ -101,7 +101,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Homework 1",
+      "title": "Homework 1: PDF Worksheet",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-29T23:59:00",
       "link": "https://www.gradescope.com/courses/936983",
@@ -115,7 +115,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW1 Coding Assignment",
+      "title": "Homework 1: Coding Assignment (ipynb ONLY! NO PDFS!!!! PDF = 0 points)",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-29T23:59:00",
       "link": "https://www.gradescope.com/courses/936983",
