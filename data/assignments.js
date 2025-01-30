@@ -111,8 +111,8 @@ assignments = {
       "title": "Homework 1: PDF Worksheet",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5646367/submissions/303367022",
+      "submitted": true
     },
     {
       "title": "Group Project Milestone 1: Abstract, Data and Group Members",
@@ -125,7 +125,7 @@ assignments = {
       "title": "Homework 1: Coding Assignment (ipynb ONLY! NO PDFS!!!! PDF = 0 points)",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983/assignments/5675065/submissions/303349318",
+      "link": "https://www.gradescope.com/courses/936983/assignments/5675065/submissions/303358247",
       "submitted": true
     },
     {
