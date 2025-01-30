@@ -111,7 +111,7 @@ assignments = {
       "title": "Homework 1: PDF Worksheet",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983/assignments/5646367/submissions/303367022",
+      "link": "https://www.gradescope.com/courses/936983/assignments/5646367/submissions/303370509",
       "submitted": true
     },
     {
