@@ -132,8 +132,8 @@ assignments = {
       "title": "Group Project Milestone 1: Abstract, Data and Group Members",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983/assignments/5663023/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5663023/submissions/304234891",
+      "submitted": true
     },
     {
       "title": "Homework 1: Coding Assignment (ipynb ONLY! NO PDFS!!!! PDF = 0 points)",
