@@ -166,7 +166,7 @@ assignments = {
     {
       "title": "Homework 1: PDF Worksheet",
       "course": "CSE150A_WI25_A00",
-      "dueDate": "2025-01-29T23:59:00",
+      "dueDate": "2025-01-30T23:59:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5646367/submissions/303370509",
       "submitted": true
     },
@@ -233,36 +233,6 @@ assignments = {
       "course": "CSE202_WI25_A00",
       "dueDate": "2025-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/935255",
-      "submitted": false
-    }
-  ],
-  "MATH180B_WI25": [
-    {
-      "title": "Homework1",
-      "course": "MATH180B_WI25",
-      "dueDate": "2025-01-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/939995/assignments/5530925/submissions/299386677",
-      "submitted": true
-    },
-    {
-      "title": "Homework2",
-      "course": "MATH180B_WI25",
-      "dueDate": "2025-01-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/939995/assignments/5580634/submissions/300503922",
-      "submitted": true
-    },
-    {
-      "title": "Homework3",
-      "course": "MATH180B_WI25",
-      "dueDate": "2025-01-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/939995/assignments/5629842/submissions/301738516",
-      "submitted": true
-    },
-    {
-      "title": "Homework4",
-      "course": "MATH180B_WI25",
-      "dueDate": "2025-02-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/939995",
       "submitted": false
     }
   ]
