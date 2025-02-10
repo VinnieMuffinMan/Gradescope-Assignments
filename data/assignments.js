@@ -164,6 +164,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Week 6: Mon Lecture Participation PDF",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-02-11T08:00:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
+    },
+    {
       "title": "Homework 1: PDF Worksheet",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-01-30T23:59:00",
@@ -197,6 +204,13 @@ assignments = {
       "dueDate": "2025-02-09T23:59:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5747732/submissions/306845650",
       "submitted": true
+    },
+    {
+      "title": "Homework 3: Coding Assignment",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-02-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
     }
   ],
   "CSE202_WI25_A00": [
