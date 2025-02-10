@@ -188,8 +188,8 @@ assignments = {
       "title": "Homework 2: Coding Assignment",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5718750/submissions/306830060",
+      "submitted": true
     },
     {
       "title": "Homework 2 PDF ",
