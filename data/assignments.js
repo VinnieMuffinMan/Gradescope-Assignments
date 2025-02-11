@@ -164,6 +164,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Week 6: Mon Discussion Participation PDF",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
+    },
+    {
       "title": "Week 6: Mon Lecture Participation PDF",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-11T08:00:00",
