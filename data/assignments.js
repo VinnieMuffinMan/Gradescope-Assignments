@@ -251,8 +251,8 @@ assignments = {
       "title": "Group Project Milestone 2: Model 1 and evaluation",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983/assignments/5791474/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5791474/submissions/309207721",
+      "submitted": true
     }
   ],
   "CSE202_WI25_A00": [
