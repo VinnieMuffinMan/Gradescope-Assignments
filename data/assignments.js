@@ -222,7 +222,7 @@ assignments = {
     {
       "title": "Week 7: Fri Lecture Participation PDF",
       "course": "CSE150A_WI25_A00",
-      "dueDate": "2025-02-22T08:00:00",
+      "dueDate": "2025-02-23T08:00:00",
       "link": "https://www.gradescope.com/courses/936983",
       "submitted": false
     },
