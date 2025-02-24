@@ -325,6 +325,13 @@ assignments = {
       "dueDate": "2025-03-04T23:59:00",
       "link": "https://www.gradescope.com/courses/935255",
       "submitted": false
+    },
+    {
+      "title": "Homework 4",
+      "course": "CSE202_WI25_A00",
+      "dueDate": "2025-02-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/935255",
+      "submitted": false
     }
   ]
 };
