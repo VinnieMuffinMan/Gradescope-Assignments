@@ -220,6 +220,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Week 8: Mon Discussion Participation PDF",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-02-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983",
+      "submitted": false
+    },
+    {
       "title": "Week 8: Mon Lecture Participation PDF",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-25T08:00:00",
@@ -265,8 +272,8 @@ assignments = {
       "title": "Homework 3: Coding Assignment",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-02-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5750314/submissions/311835160",
+      "submitted": true
     },
     {
       "title": "Group Project Milestone 2: Model 1 and evaluation",
