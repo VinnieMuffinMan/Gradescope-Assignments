@@ -258,8 +258,8 @@ assignments = {
       "title": "Week 8: Fri Lecture Participation PDF",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-03-01T08:00:00",
-      "link": "https://www.gradescope.com/courses/936983",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5536871/submissions/313875098",
+      "submitted": true
     },
     {
       "title": "Homework 1: PDF Worksheet",
