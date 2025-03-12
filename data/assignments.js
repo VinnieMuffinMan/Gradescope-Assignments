@@ -59,21 +59,21 @@ assignments = {
     {
       "title": "handout 2-25",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-28T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5843075/submissions/313136993",
       "submitted": true
     },
     {
       "title": "handout 2-27",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-28T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5843089/submissions/313137004",
       "submitted": true
     },
     {
       "title": "handout 3-4",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-03-07T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5880174/submissions/315613835",
       "submitted": true
     },
