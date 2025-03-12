@@ -383,7 +383,7 @@ assignments = {
     {
       "title": "Homework 3 PDF",
       "course": "CSE150A_WI25_A00",
-      "dueDate": "2025-02-23T23:59:00",
+      "dueDate": "2025-02-24T23:59:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5821093/submissions/311840616",
       "submitted": true
     },
