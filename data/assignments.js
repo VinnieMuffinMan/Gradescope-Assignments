@@ -376,7 +376,7 @@ assignments = {
     {
       "title": "Homework 3: Coding Assignment",
       "course": "CSE150A_WI25_A00",
-      "dueDate": "2025-02-23T23:59:00",
+      "dueDate": "2025-02-24T23:59:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5750314/submissions/311837225",
       "submitted": true
     },
