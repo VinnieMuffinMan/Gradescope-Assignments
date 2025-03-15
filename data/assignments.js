@@ -31,28 +31,28 @@ assignments = {
     {
       "title": "handout 2-4",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-07T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5729268/submissions/306484311",
       "submitted": true
     },
     {
       "title": "handout 2-6",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-07T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5729279/submissions/306484363",
       "submitted": true
     },
     {
       "title": "handout 2-11",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-14T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5766121/submissions/308845160",
       "submitted": true
     },
     {
       "title": "handout 2-13",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-02-14T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5766136/submissions/308845192",
       "submitted": true
     },
@@ -80,21 +80,21 @@ assignments = {
     {
       "title": "handout 3-6",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-03-07T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193/assignments/5880181/submissions/315613863",
       "submitted": true
     },
     {
       "title": "handout 3-11",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-03-14T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193",
       "submitted": false
     },
     {
       "title": "handout 3-13",
       "course": "CSE130_WI25_A00",
-      "dueDate": "2025-03-14T23:59:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/951193",
       "submitted": false
     }
