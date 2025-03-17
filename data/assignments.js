@@ -419,8 +419,8 @@ assignments = {
       "title": "Group Project Milestone 3: Final Project",
       "course": "CSE150A_WI25_A00",
       "dueDate": "2025-03-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/936983/assignments/5905010/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/936983/assignments/5905010/submissions/317774468",
+      "submitted": true
     }
   ],
   "CSE202_WI25_A00": [
@@ -484,6 +484,13 @@ assignments = {
       "title": "Project Implementation",
       "course": "CSE202_WI25_A00",
       "dueDate": "2025-03-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/935255",
+      "submitted": false
+    },
+    {
+      "title": "Final",
+      "course": "CSE202_WI25_A00",
+      "dueDate": "2025-03-18T23:59:00",
       "link": "https://www.gradescope.com/courses/935255",
       "submitted": false
     }
