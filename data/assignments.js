@@ -421,6 +421,13 @@ assignments = {
       "dueDate": "2025-03-16T23:59:00",
       "link": "https://www.gradescope.com/courses/936983/assignments/5905010/submissions/317774468",
       "submitted": true
+    },
+    {
+      "title": "Group Project Voting Time!",
+      "course": "CSE150A_WI25_A00",
+      "dueDate": "2025-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/936983/assignments/5945658/submissions/new",
+      "submitted": false
     }
   ],
   "CSE202_WI25_A00": [
