@@ -32,5 +32,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/1014559",
       "submitted": false
     }
+  ],
+  "Math 160B": [
+    {
+      "title": "Problem Set 1",
+      "course": "Math 160B",
+      "dueDate": "2025-04-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013103",
+      "submitted": false
+    }
   ]
 };
