@@ -1,4 +1,5 @@
 assignments = {
+  "CSE 151A": [],
   "CSE120_SP25_A00": [
     {
       "title": "Homework 1",
