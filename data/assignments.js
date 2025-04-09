@@ -1,5 +1,13 @@
 assignments = {
-  "CSE 151A": [],
+  "CSE 151A": [
+    {
+      "title": "hw1",
+      "course": "CSE 151A",
+      "dueDate": "2025-04-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/1016806",
+      "submitted": false
+    }
+  ],
   "CSE120_SP25_A00": [
     {
       "title": "Homework 1",
