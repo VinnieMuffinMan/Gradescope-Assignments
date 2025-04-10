@@ -4,8 +4,8 @@ assignments = {
       "title": "hw1",
       "course": "CSE 151A",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/1016806",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1016806/assignments/6060484/submissions/324267668",
+      "submitted": true
     }
   ],
   "CSE120_SP25_A00": [
@@ -22,6 +22,13 @@ assignments = {
       "dueDate": "2025-04-08T16:50:00",
       "link": "https://www.gradescope.com/courses/1008825/assignments/6053839/submissions/323599180",
       "submitted": true
+    },
+    {
+      "title": "Project 1",
+      "course": "CSE120_SP25_A00",
+      "dueDate": "2025-04-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/1008825",
+      "submitted": false
     }
   ],
   "CSE150B_SP25": [
