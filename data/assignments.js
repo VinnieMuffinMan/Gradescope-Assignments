@@ -54,6 +54,13 @@ assignments = {
       "dueDate": "2025-04-12T22:00:00",
       "link": "https://www.gradescope.com/courses/1014559/assignments/6051483/submissions/324898492",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "MATH180B_SP25_A00",
+      "dueDate": "2025-04-19T22:00:00",
+      "link": "https://www.gradescope.com/courses/1014559",
+      "submitted": false
     }
   ],
   "Math 160B": [
