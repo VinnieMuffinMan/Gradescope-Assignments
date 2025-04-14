@@ -38,6 +38,13 @@ assignments = {
       "dueDate": "2025-04-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1014520/assignments/6022921/submissions/322713533",
       "submitted": true
+    },
+    {
+      "title": "PA2: 2048",
+      "course": "CSE150B_SP25",
+      "dueDate": "2025-04-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/1014520",
+      "submitted": false
     }
   ],
   "MATH180B_SP25_A00": [
