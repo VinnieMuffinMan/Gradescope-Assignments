@@ -6,6 +6,20 @@ assignments = {
       "dueDate": "2025-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1016806/assignments/6060484/submissions/324267668",
       "submitted": true
+    },
+    {
+      "title": "hw2",
+      "course": "CSE 151A",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/1016806/assignments/6095594/submissions/326471338",
+      "submitted": true
+    },
+    {
+      "title": "hw3",
+      "course": "CSE 151A",
+      "dueDate": "2025-04-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1016806/assignments/6134547/submissions/328135380",
+      "submitted": true
     }
   ],
   "CSE120_SP25_A00": [
@@ -13,8 +27,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CSE120_SP25_A00",
       "dueDate": "2025-04-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/1008825",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1008825/assignments/6035162/submissions/325743437",
+      "submitted": true
     },
     {
       "title": "In-Class Poll #1",
@@ -29,6 +43,27 @@ assignments = {
       "dueDate": "2025-04-29T23:59:00",
       "link": "https://www.gradescope.com/courses/1008825",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "CSE120_SP25_A00",
+      "dueDate": "2025-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/1008825",
+      "submitted": false
+    },
+    {
+      "title": "In-Class Poll #2",
+      "course": "CSE120_SP25_A00",
+      "dueDate": "2025-04-17T16:01:00",
+      "link": "https://www.gradescope.com/courses/1008825/assignments/6103435/submissions/326359731",
+      "submitted": true
+    },
+    {
+      "title": "In-Class Poll #3",
+      "course": "CSE120_SP25_A00",
+      "dueDate": "2025-04-24T15:54:00",
+      "link": "https://www.gradescope.com/courses/1008825/assignments/6135929/submissions/328342692",
+      "submitted": true
     }
   ],
   "CSE150B_SP25": [
@@ -66,8 +101,8 @@ assignments = {
       "title": "Homework 3",
       "course": "MATH180B_SP25_A00",
       "dueDate": "2025-04-19T22:00:00",
-      "link": "https://www.gradescope.com/courses/1014559",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1014559/assignments/6082339/submissions/326944734",
+      "submitted": true
     }
   ],
   "Math 160B": [
@@ -82,8 +117,8 @@ assignments = {
       "title": "Problem Set 2",
       "course": "Math 160B",
       "dueDate": "2025-04-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/1013103",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1013103/assignments/6073225/submissions/327786448",
+      "submitted": true
     }
   ]
 };
